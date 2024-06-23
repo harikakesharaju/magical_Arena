@@ -1,0 +1,19 @@
+{
+  "name": "magical_arena",
+  "version": "1.0.0",
+  "description": "This project simulates a magical arena where two players fight until one of them dies.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+ "scripts": {
+  "test": "mocha"
+}
+,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
